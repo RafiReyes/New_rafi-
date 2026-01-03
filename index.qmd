@@ -1,0 +1,23 @@
+---
+title: "¡Bienvenidos!"
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/RafiReyes
+---
+
+¡Hola! Soy RafiReyes. Este es mi sitio web creado con Quarto + GitHub Pages.
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Educación
+- Universidad Nacional de Ingeniería (UNI)
+:::
+
+::: {.callout-note collapse="true" appearance="simple" icon="false"}
+## Proyectos
+- (Aquí pondrás tus proyectos)
+:::
